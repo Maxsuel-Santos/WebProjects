@@ -1,6 +1,9 @@
 # WebProjects
  Web sites projects.
 
+## Desafios
+ Desafios propostos por Bedimcode e desenvolvidos por mim (in english).
+
 ## Links
 
 * Button Loading - https://maxsuel-santos.github.io/WebProjects/button-loading-animation-main
